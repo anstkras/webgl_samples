@@ -37,6 +37,7 @@
     "color-parse": "^1.4.2",
     "copy-webpack-plugin": "^6.4.0",
     "dat.gui": "^0.7.7",
+    "gl-mat4": "^1.2.0",
     "mtl-loader": "^0.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
